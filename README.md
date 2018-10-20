@@ -1,24 +1,14 @@
-# README
+# Wyncode-Project7-Rails-MVC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My seventh weekend project at Wyncode Academy in Miami, FL.
 
-Things you may want to cover:
+* We had create an E-Commerce site using Ruby on Rails. 
+* This project helped me to gain familiarity with the RESTful actions as well as the MVC architectural pattern.
 
-* Ruby version
+### *index* Action
 
-* System dependencies
+<img src="app/assets/images/Rainforest-proj-index.png" alt="Github API Rails" width="500"/>
 
-* Configuration
+### *show* Action
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="app/assets/images/rainforest-proj-show.png" alt="Github API Rails" width="500"/>
